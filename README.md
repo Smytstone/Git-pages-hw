@@ -1,5 +1,6 @@
 # Портфолио Щелоков А.С.
-![Моё фото](6lu7Ai0mVp0.jpg)
+[comment]: <![Моё фото](6lu7Ai0mVp0.jpg) как выглядит оформление в Markdown, но как отредактировать изображение я не нашёл, поэтому использую html :) >
+<img src="6lu7Ai0mVp0.jpg" alt="Моё фото" width="200"/>
 
 ### Обо мне
 1. Пользователь ПК (Microsoft word, Power Point, Exel, Snagit, CorelDRAW) 
