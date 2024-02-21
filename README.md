@@ -54,4 +54,4 @@
 
 ## Мои соц. сети
 [VK](https://vk.com/molodzelen)
-[Telegram](t.me/alexmnms)
+[Telegram](https://t.me/alexmnms)
